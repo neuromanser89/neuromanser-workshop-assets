@@ -3,6 +3,7 @@
 Общие изображения для страниц модов neuromanser в Steam Workshop.
 
 - `shared/branding/` — общие авторские хидеры и фирменные элементы.
+- [shared/footer/](shared/footer/README.md) — универсальное завершение страницы RU/EN.
 - [shared/sections/](shared/sections/README.md) — согласованные плашки разделов RU/EN и готовый BBCode.
 - [mods/](mods/README.md) — отдельный каталог для изображений каждого мода: `mods/<slug>/ru/`, `en/` и при необходимости `common/`.
 
