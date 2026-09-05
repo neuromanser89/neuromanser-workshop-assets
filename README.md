@@ -10,6 +10,14 @@
 
 ## Общий хидер
 
+Текущая компактная по высоте версия — **v2, 1181×196**: печать уменьшена, размер ника сохранён. PNG RGBA.
+
+```text
+[img]https://raw.githubusercontent.com/neuromanser89/neuromanser-workshop-assets/main/shared/branding/neuromanser-header-white-v2.png[/img]
+```
+
+Версии v1 ниже сохранены для существующих ссылок; для новых страниц использовать v2.
+
 Белая печать NM с шестью болтами, разделитель и округлая надпись neuromanser. Предназначен для тёмного фона. Один файл для RU и EN.
 
 | Файл | Размер | Формат |
