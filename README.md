@@ -2,6 +2,7 @@
 
 Общие изображения для страниц модов neuromanser в Steam Workshop.
 
+- [shared/translation-badge/](shared/translation-badge/README.md) — единая отметка перевода: флаг России с печатью NM поверх.
 - `shared/branding/` — общие авторские хидеры и фирменные элементы.
 - [shared/footer/](shared/footer/README.md) — универсальное завершение страницы RU/EN.
 - [shared/sections/](shared/sections/README.md) — согласованные плашки разделов RU/EN и готовый BBCode.
