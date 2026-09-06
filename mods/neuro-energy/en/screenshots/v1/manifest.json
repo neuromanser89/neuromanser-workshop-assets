@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01-consumers.png",
+    "title": "Consumers overview / Все потребители",
+    "size": [
+      1228,
+      807
+    ],
+    "sha256": "9a9c5bf256934f54c85810970c9db77427916cbe3bb0d57fbee04d71c775cd1c"
+  },
+  {
+    "file": "02-problems.png",
+    "title": "Problems filter / Фильтр проблем",
+    "size": [
+      1220,
+      808
+    ],
+    "sha256": "7eca15171d23f3e713c9b2cec90dc18532dea3620cd93b207262635274326358"
+  },
+  {
+    "file": "03-switched-off.png",
+    "title": "Switched-off devices / Выключенные устройства",
+    "size": [
+      1219,
+      803
+    ],
+    "sha256": "35f95c05b47c21b9375e5fe11c5bfebb52113855bb2032ed2af3680c01c30da7"
+  },
+  {
+    "file": "04-power-history.png",
+    "title": "Power history / График мощности",
+    "size": [
+      1223,
+      816
+    ],
+    "sha256": "d2e6bd2158745871bd4f2f816ccb8030411823d71b735c47c7bea051abcaea76"
+  }
+]
